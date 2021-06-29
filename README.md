@@ -1,4 +1,5 @@
-# Project_4
+# West Nile Virus Prediction
+
 GA Group Project 4 - Edward, Derrick, Tresha
 
 ### 1) Problem Statement
