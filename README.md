@@ -1,6 +1,6 @@
 # West Nile Virus Prediction
 
-GA Group Project 4 - Edward Edishire, Derrick, Tresha
+GA Group Project 4 - Edward Edishire, Derrick, Treshaa
 
 ### 1) Problem Statement
 
