@@ -119,3 +119,5 @@ As we are concerned about correctly identifying the presence of the West Nile Vi
 This goes to suggest that our model predicts 95.44% of the test observations correctly. Among obsevations that have the West Nile Virus, our model has 41.72% of them classified accurately.
 
 Re cost-benefit analysis, our earlier paragraph shows that the cost of spraying the whole of Chicago fortnightly for 6 months (including the summer months) will cost about $2.8mil. This is far lower that the total estimated hospitalisation costs (see figures under "Chicago Mean Cost" from table above) from West Nile Virus and demonstrates a clear impetus for the city of Chicago to spray insecticide city-wide to reduce the spread of the virus.
+
+Checkpoint: 28 May 2026
